@@ -6,6 +6,5 @@ Landing page de um produto, seguindo os pré-requisitos do desafio do FreeCodeCa
 
 - HTML5
 - CSS3
-- javascript
 
-<em>Sem auxilio de nenhum framework ou biblioteca de css</em>
+<em>Sem auxilio de nenhum framework ou biblioteca</em>
